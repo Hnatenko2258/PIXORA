@@ -214,7 +214,7 @@ export default function ColorMastering({ currentLang }: ColorMasteringProps) {
                 <div
                   className="absolute inset-0 bg-cover bg-center transition-all duration-300"
                   style={{
-                    backgroundImage: "url('/src/assets/images/pixora_ai_grading_1780667152558.png')",
+                    backgroundImage: "url('/images/pixora_ai_grading_1780667152558.png')",
                     ...imageFilter
                   }}
                 />
