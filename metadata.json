@@ -1,0 +1,6 @@
+{
+  "name": "PIXORA Media Pipeline Platform",
+  "description": "Интерактивный Landing Page для PIXORA с симуляторами пайплайнов, вещания и мастеринга видео.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
