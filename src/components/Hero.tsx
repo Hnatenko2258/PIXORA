@@ -26,7 +26,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Стриминг сверхнизкой задержки",
       sub: "ПАКЕТ LIVE-ВЕЩАНИЯ",
       desc: "Стабильный захват и раздача видео без задержек и пропусков кадров по всему миру.",
-      img: "/src/assets/images/pixora_live_streaming_1780667136661.png",
+      img: "/images/pixora_live_streaming_1780667136661.png",
       badge: "ULTRA-LOW LATENCY",
       tags: ["SRT / RTMP", "Active-Standby", "Failover"]
     },
@@ -34,7 +34,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Умная цветокоррекция & AI",
       sub: "ИНТЕЛЛЕКТУАЛЬНЫЙ МАСТЕРИНГ",
       desc: "Высокоточное автоматическое преобразование цветовых пространств и супер-разрешение кадра.",
-      img: "/src/assets/images/pixora_ai_grading_1780667152558.png",
+      img: "/images/pixora_ai_grading_1780667152558.png",
       badge: "COLOR GRADE & UP-SCALE",
       tags: ["HDR / Dolby Vision", "TensorRT", "4K Dynamic"]
     },
@@ -42,7 +42,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Хмарная нейро-озвучка",
       sub: "ОБЛАЧНЫЕ ДИКТОРЫ",
       desc: "Создание качественного аудиоконтента и речевого сопровождения из текста за считанные секунды.",
-      img: "/src/assets/images/pixora_cloud_voice_1780667166658.png",
+      img: "/images/pixora_cloud_voice_1780667166658.png",
       badge: "NEURAL VOICE",
       tags: ["Azure / OpenAI", "50+ голосов", "Мгновенно"]
     }
@@ -52,7 +52,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Ultra-Low Latency Streaming",
       sub: "LIVE BROADCAST PACK",
       desc: "Drop-proof video delivery and low latency capture for global audiences with zero frame loss.",
-      img: "/src/assets/images/pixora_live_streaming_1780667136661.png",
+      img: "/images/pixora_live_streaming_1780667136661.png",
       badge: "ULTRA-LOW LATENCY",
       tags: ["SRT / RTMP", "Active-Standby", "Failover"]
     },
@@ -60,7 +60,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Smart Color Grading & AI",
       sub: "INTELLIGENT WEBSPACE",
       desc: "Highly-calibrated automated color space transformation and frame super-resolution filters.",
-      img: "/src/assets/images/pixora_ai_grading_1780667152558.png",
+      img: "/images/pixora_ai_grading_1780667152558.png",
       badge: "COLOR GRADE & UP-SCALE",
       tags: ["HDR / Dolby Vision", "TensorRT", "4K Dynamic"]
     },
@@ -68,7 +68,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Cloud Voice Synthesis",
       sub: "AI AUDIO PRODUCTION",
       desc: "Generate broadcast-ready voiceovers and voice accompaniments from text files in seconds.",
-      img: "/src/assets/images/pixora_cloud_voice_1780667166658.png",
+      img: "/images/pixora_cloud_voice_1780667166658.png",
       badge: "NEURAL VOICE",
       tags: ["Azure / OpenAI", "50+ Voices", "Instant API"]
     }
@@ -78,7 +78,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Стрімінг наднизької затримки",
       sub: "ЖИВЕ МОВЛЕННЯ БЕЗ ЗБОЇВ",
       desc: "Стабільна доставка та захоплення потоків без втрати кадрів для будь-якої аудиторії по всьому світу.",
-      img: "/src/assets/images/pixora_live_streaming_1780667136661.png",
+      img: "/images/pixora_live_streaming_1780667136661.png",
       badge: "ULTRA-LOW LATENCY",
       tags: ["SRT / RTMP", "Active-Standby", "Failover"]
     },
@@ -86,7 +86,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Розумна кольорокорекція & AI",
       sub: "КОЛЬОРОВИЙ МАСТЕРІНГ",
       desc: "Високоточна автоматизація перетворень колірних спектрів та нейронне масштабування кадрів.",
-      img: "/src/assets/images/pixora_ai_grading_1780667152558.png",
+      img: "/images/pixora_ai_grading_1780667152558.png",
       badge: "COLOR GRADE & UP-SCALE",
       tags: ["HDR / Dolby Vision", "TensorRT", "4K Dynamic"]
     },
@@ -94,7 +94,7 @@ const slidesData: Record<Language, Slide[]> = {
       title: "Хмарна нейро-озвучка",
       sub: "АВТОМАТИЗАЦІЯ ДИКТОРІВ",
       desc: "Створення якісного озвучення та голосового супроводу з друкованого тексту за лічені секунди.",
-      img: "/src/assets/images/pixora_cloud_voice_1780667166658.png",
+      img: "/images/pixora_cloud_voice_1780667166658.png",
       badge: "NEURAL VOICE",
       tags: ["Azure / OpenAI", "50+ голосів", "Миттєво"]
     }
